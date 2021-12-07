@@ -1,0 +1,90 @@
+body {
+  background-color: #160040;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  position: relative;
+  line-height: 1.7em;
+}
+/* .btn:hover {
+  background: linear-gradient(to right, #ff275b, #ffb840);
+} */
+.btn-outline-dark:hover {
+  background: linear-gradient(to right, #ff275b, #ffb840);
+}
+.btn-lg {
+  color: white;
+  background: linear-gradient(to right, #ff275b, #ffb840);
+}
+h1 {
+  margin-top: 70px;
+  color: white;
+  font-size: 90px;
+}
+/* .product {
+  color: #ff275b;
+} */
+.navbar-brand {
+  margin-left: 5px;
+}
+.hero-sub-heading {
+  color: #afafaf;
+}
+.header {
+  padding-left: 0%;
+}
+.video {
+  color: white;
+}
+.video:hover {
+  color: #ff275b;
+}
+.download-button {
+  margin-top: 70px;
+}
+.title-img {
+  margin-top: 100px;
+  border-radius: 100%;
+  filter: #ff275b;
+}
+h2 {
+  margin-top: 150px;
+  color: white;
+  font-size: 60px;
+}
+/* .should {
+  color: #ff275b;
+} */
+.justify-content-center {
+  margin-top: 50px;
+}
+h3 {
+  color: white;
+}
+.static-text {
+  color: #afafaf;
+}
+.hover-text {
+  color: #160040;
+}
+.static-text:hover {
+  display: none;
+}
+.hover-text:hover {
+  display: inline;
+}
+.col-md-6:hover {
+  background: linear-gradient(to right, #ff275b, #ffb840);
+}
+.png {
+  width: 40px;
+  height: 40px;
+  color: white;
+}
+span {
+  color: #ff275b;
+}
+.text-xs {
+  color: #afafaf;
+  margin-top: 20px;
+}
